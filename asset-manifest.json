@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Elenalx/static/css/main.f89e7b31.css",
-    "main.js": "/Elenalx/static/js/main.22c53e01.js",
+    "main.css": "/Elenalx/static/css/main.fa4592a2.css",
+    "main.js": "/Elenalx/static/js/main.721c0c09.js",
     "index.html": "/Elenalx/index.html",
-    "main.f89e7b31.css.map": "/Elenalx/static/css/main.f89e7b31.css.map",
-    "main.22c53e01.js.map": "/Elenalx/static/js/main.22c53e01.js.map"
+    "main.fa4592a2.css.map": "/Elenalx/static/css/main.fa4592a2.css.map",
+    "main.721c0c09.js.map": "/Elenalx/static/js/main.721c0c09.js.map"
   },
   "entrypoints": [
-    "static/css/main.f89e7b31.css",
-    "static/js/main.22c53e01.js"
+    "static/css/main.fa4592a2.css",
+    "static/js/main.721c0c09.js"
   ]
 }
