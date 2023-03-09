@@ -1,4 +1,4 @@
-.profile {
+.profileCard {
     margin: 20px auto;
     width: 200px;
     padding-top: 20px;
@@ -49,7 +49,7 @@
     padding: 0;
 }
 
-.statsItem {
+.statsName {
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -1,4 +1,15 @@
-@import-normalize; /* bring in normalize.css styles */
+@import-normalize;/* bring in normalize.css styles */
+
+:root {
+  --color-white: #ffffff;
+  --color-gray: gray;
+  --color-gray-light: rgb(194, 189, 189);
+  --color-black: black;
+  --color-red: red;
+  --color-green: green;
+  --color-blur: rgb(97, 190, 226);
+  --color-blur-gray: rgb(210, 233, 242);
+}
 
 body {
   margin: 0;

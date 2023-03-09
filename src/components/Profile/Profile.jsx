@@ -11,7 +11,7 @@ export const Profile = ({
   avatar,
   stats: { followers, views, likes } ,
 }) => (
-  <div className={css.profile}>
+  <div className={css.profileCard}>
     <div className={css.description}>
       <img
         src={avatar}
